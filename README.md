@@ -14,14 +14,15 @@ Quick Start
 ===========
 
 ### Installation
-The `md_3ddpd` package can be installed with pip like so (with python >= 3.8.0):
-```bash
-pip install md_3ddpd
-```
-
 To install the whole repository and have access also to the modelling package, just clone the repository like so:
 ```bash
 git clone git+https://gitlab.services.universiteitleiden.nl/cdd/3DDPD.git@main
+```
+
+Coming soon...
+The `md_3ddpd` package can be installed with pip like so (with python >= 3.8.0):
+```bash
+pip install md_3ddpd
 ```
 
 ### Use
