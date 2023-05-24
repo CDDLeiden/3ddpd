@@ -16,7 +16,7 @@ Quick Start
 ### Installation
 To install the whole repository and have access also to the modelling package, just clone the repository like so:
 ```bash
-git clone git+https://gitlab.services.universiteitleiden.nl/cdd/3DDPD.git@main
+git clone git+https://github.com/CDDLeiden/3ddpd.git@master
 ```
 
 Coming soon...
